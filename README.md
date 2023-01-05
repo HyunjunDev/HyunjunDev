@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Pilgyu%20Kim&fontSize=90&animation=fadeIn)
 
-<!--
-**HyunjunDev/HyunjunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi👋! I'm Pilgyu Kim 😄 
+ 
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 😊 Career
+
+|종류|날짜|내용|조직|
+|---|---|---|---|
+|🎓 고등학교|2021 ~|게임개발과|경기게임마이스터고
+
+### 🛠️ Tool&Skill
+
+
+### 💻 Github Info
+
+  
+![pilgyu14's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
+
+[![pilgyu14's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyu14)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
