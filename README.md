@@ -1,9 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Pilgyu%20Kim&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyunjun%20Kim&fontSize=90&animation=fadeIn)
 
 
-## Hi👋! I'm Pilgyu Kim 😄 
+## Hi👋! I'm Hyunjun Kim 😄 
  
 ## Portfolio
 
@@ -20,9 +20,9 @@
 ### 💻 Github Info
 
   
-![pilgyu14's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
+![HyunjunDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
 
-[![pilgyu14's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyu14)](https://github.com/anuraghazra/github-readme-stats)
+[![HyunjunDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyu14)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
