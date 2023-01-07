@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HyunjunDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjunDev&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&hide=" width="41.2%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjunDev&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&hide=ShaderLab" width="41.2%" />
 </a>
  
 ------------------
