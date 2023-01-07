@@ -18,6 +18,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=HyunjunDev&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br><br>
