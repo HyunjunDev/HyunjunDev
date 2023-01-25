@@ -14,8 +14,9 @@
 </a>  
  <img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjun5959">
  <br>
-------------------
-
+ 
+******
+ 
 ### 💪 Skills
 #### Platforms & Languages
 <p>
