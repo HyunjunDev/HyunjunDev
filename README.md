@@ -11,11 +11,8 @@
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=HyunjunDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
-</a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjunDev&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&hide=ShaderLab,HLSL" width="48.5%" />
-</a>
- 
+</a>  
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjun5959)](https://solved.ac/hyunjun5959)  
 ------------------
 
 ### 💪 Skills
