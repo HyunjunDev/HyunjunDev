@@ -17,8 +17,8 @@
  
 ******
  
-# 💪 Skills
-## Platforms & Languages
+### 💪 Skills
+#### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
@@ -26,3 +26,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
 </p>
+
+******
+
+### 📰 Portfolio
+https://freezing-notebook-cbe.notion.site/_-cc7858503e9b4c3ca6c55b884cf6c408                                                                                                  
