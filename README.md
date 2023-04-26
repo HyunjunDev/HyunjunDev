@@ -27,4 +27,4 @@
 
 ******
 
-### 📰 [Portfolio](https://freezing-notebook-cbe.notion.site/_-cc7858503e9b4c3ca6c55b884cf6c408)                                                                                                  
+### 📰 [Portfolio](https://www.notion.so/_-cc7858503e9b4c3ca6c55b884cf6c408?pvs=4)                                                                                                  
